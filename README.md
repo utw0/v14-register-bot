@@ -10,6 +10,7 @@
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi açın.
 * ```npm install``` yazarak tüm modülleri kurun.
 * ```npm install pm2 -g``` yazarak pm2 modülünü indirin
+* .setup durum yazıp kurulum hakkında bilgi alın
 * Kurulum bittikten sonra ```pm2 start``` başlatın. Tebrikler!
 
 # Görseller
