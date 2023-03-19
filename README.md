@@ -3,7 +3,9 @@
 - Hem Public Tagı Hem Ekip Taglı (Coklu TAG ve ETİKET TAGI)
 - Belki Moderasyon Sistemleri eklerim
 - Ulaşmak için luhux#1937 veya https://discord.gg/luppux
-- PAYLAŞILMASI İÇİN YAPILDI 
+- PAYLAŞILMASI İÇİN YAPILDI  
+- Star gelirse moderasyon stat yapicam toplu bot olur istee asko
+
 # Kurulum
 
 * İlk olarak bilgisayarınıza [Node JS](https://nodejs.org/en/) indirin.
