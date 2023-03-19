@@ -3,6 +3,7 @@
 - Hem Public Tagı Hem Ekip Taglı (Coklu TAG ve ETİKET TAGI)
 - Belki Moderasyon Sistemleri eklerim
 - Ulaşmak için luhux#1937 veya https://discord.gg/luppux
+- PAYLAŞILMASI İÇİN YAPILDI 
 # Kurulum
 
 * İlk olarak bilgisayarınıza [Node JS](https://nodejs.org/en/) indirin.
