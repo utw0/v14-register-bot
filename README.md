@@ -1,5 +1,5 @@
 # v14-Register-bot Setup kurulumlu
-- V14 Register Setuplu
+- V14 Register Setuplu Davet Sistemli
 - Hem Public Tagı Hem Ekip Taglı (Coklu TAG ve ETİKET TAGI)
 - Belki Moderasyon Sistemleri eklerim
 - Ulaşmak için luhux#1937 veya https://discord.gg/luppux
